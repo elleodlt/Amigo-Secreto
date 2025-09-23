@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-![Amigo Secreto](assets/amigo-secreto.png)
+![Amigo Secreto](https://github.com/elleodlt/Challenger-Amigo-Secreto/blob/main/challenge-amigo-secreto_esp-main/assets/amigo-secreto.png)
 
 Este es un pequeño proyecto en **JavaScript** que permite:
 - Agregar nombres de amigos.
@@ -19,3 +19,4 @@ Este es un pequeño proyecto en **JavaScript** que permite:
 
 ---
 💡 Proyecto hecho con fines de práctica.
+
