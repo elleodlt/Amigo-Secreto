@@ -17,6 +17,12 @@ Este es un pequeño proyecto en **JavaScript** que permite:
 - CSS
 - JavaScript
 
+👤 Autor
+
+Leonardo José De La Torre
+
+GitHub: @elleodlt
+
 ---
 💡 Proyecto hecho con fines de práctica.
 
