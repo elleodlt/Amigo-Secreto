@@ -1,6 +1,8 @@
 # 🎁 Amigo Secreto
 
-![Amigo Secreto](./assets/amigo.png)
+<p align="center">
+  <img src="./assets/amigo-secreto.png" alt="Amigo Secreto" width="300">
+</p>
 
 
 Este es un pequeño proyecto en **JavaScript** que permite:
