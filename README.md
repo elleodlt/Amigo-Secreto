@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-![Amigo Secreto](./amigo.png)
+![Amigo Secreto](./assets/amigo.png)
 
 
 Este es un pequeño proyecto en **JavaScript** que permite:
